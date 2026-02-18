@@ -4,4 +4,4 @@ getgenv()["gg"] = {
     Notification = true
 }
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ArchIsDead/Arch-Vault/refs/heads/main/A1-A2-Detector.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kaimm2/data/refs/heads/main/antikick2"))()
